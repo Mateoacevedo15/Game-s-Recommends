@@ -4,7 +4,7 @@ class MenuPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF6F73D2), // Fondo igual que la primera pantalla
+      backgroundColor: const Color(0xFF6E168D), // Fondo igual que la primera pantalla
       appBar: AppBar(
         title: const Text("Menú Principal"),
         backgroundColor: Color.fromARGB(255, 25, 75, 184),
